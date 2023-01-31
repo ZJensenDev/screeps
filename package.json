@@ -1,0 +1,22 @@
+
+{
+  "name": "nk-elmar-screeps",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elmar hoefinghoff",
+  "main": "dist/main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.4.5",
+    "@babel/preset-env": "7.4.5",
+    "gulp": "4.0.2",
+    "gulp-babel": "8.0.0-beta.2",
+    "gulp-dot-flatten": "1.1.1",
+    "gulp-rimraf": "0.2.2",
+    "gulp-screeps": "1.0.8",
+    "gulp-watch": "5.0.1"
+  }
+}
